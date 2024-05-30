@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there, your typical 5 foot 5, asian dude addcited to anime, valorant and league who just started to learn cs, i don't take showers and i am scared of women. FInna bag a baddie after making 6 figures after getting a degree, trust
 <!--
 **mattmhk/mattmhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
