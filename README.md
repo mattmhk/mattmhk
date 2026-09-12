@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Myat 👋
 
-<!--
-**mattmhk/mattmhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at Queen's University
+Belfast, currently developing my skills in software engineering
+and backend development.
 
-Here are some ideas to get you started:
+I previously completed a backend development internship and am
+currently preparing for a 2027 software engineering placement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+
+**Languages:** Python, C++
+
+**Backend:** FastAPI, REST APIs
+
+**Databases:** SQLite, SQL
+
+**Tools:** Git, GitHub, Postman
+
+## 🚀 Currently Working On
+
+### Library Management API
+A REST API built with FastAPI, SQLAlchemy and SQLite for
+managing books, library members and borrowing operations.
+
+## 📫 Contact
+
+LinkedIn: www.linkedin.com/in/myathtetko
