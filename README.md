@@ -19,9 +19,9 @@ currently preparing for a 2027 software engineering placement.
 
 ##  Currently Working On
 
-### Library Management API
-A REST API built with FastAPI, SQLAlchemy and SQLite for
-managing books, library members and borrowing operations.
+### Inventory Management API
+A REST API built with FastAPI, SQLAlchemy and PostgreSQL for
+managing inventory.
 
 ##  Contact
 
